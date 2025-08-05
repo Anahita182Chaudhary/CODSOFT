@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .hero {
+    background: linear-gradient(to right, #667eea, #764ba2);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 20px;
+    background: #f5f5f5;
+  }
+  
+  .feature {
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
