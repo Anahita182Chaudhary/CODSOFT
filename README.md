@@ -15,7 +15,7 @@ A clean, responsive portfolio website that showcases:
 - Contact form
 - Smooth scrolling animation
 
-📁 Folder: `/portfolio` [https://github.com/Anahita182Chaudhary/CODSOFT/task1-portfolio]
+📁 Folder: `/portfolio` [(https://github.com/Anahita182Chaudhary/CODSOFT/tree/main/task1-portfolio)]
 💡 Technologies: HTML, CSS, JavaScript
 
 ---
@@ -28,7 +28,7 @@ A modern landing page for a product/service with:
 - Call to action (CTA)
 - Mobile responsiveness
 
-📁 Folder: `/landing-page` [https://github.com/Anahita182Chaudhary/CODSOFT/Task2-LandingPage]
+📁 Folder: `/landing-page` [(https://github.com/Anahita182Chaudhary/CODSOFT/tree/main/TASK2-LandingPage)]
 💡 Technologies: HTML, CSS, JavaScript
 
 ---
@@ -40,7 +40,7 @@ A basic calculator built from scratch with:
 - Clear and backspace functionality
 - Mobile-friendly UI
 
-📁 Folder: `/calculator`[https://github.com/Anahita182Chaudhary/CODSOFT/Task3-Calculator]
+📁 Folder: `/calculator`[(https://github.com/Anahita182Chaudhary/CODSOFT/tree/main/Task3-Calculator)]
 💡 Technologies: HTML, CSS, JavaScript
 
 ---
